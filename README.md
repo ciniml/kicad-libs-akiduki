@@ -1,0 +1,3 @@
+#kicad_libs_akiduki
+
+秋月で売っている部品のKiCad用ライブラリ
